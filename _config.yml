@@ -2,12 +2,12 @@
 #      Main Configs       #
 # ----------------------- #
 
-url: http://yoursite.com
-title: My Octopress Blog
-subtitle: A blogging framework for hackers.
-author: Your Name
+url: http://xinxinxiangxi.github.com
+title: 王威威的博客
+subtitle: 一个简单的轻博客.
+author: 王威威
 simple_search: http://google.com/search
-description:
+description: 记录程序生活中的点点滴滴。
 
 # Default date format is "ordinal" (resulting in "July 22nd 2007")
 # You can customize the format as defined in
@@ -64,8 +64,8 @@ github_show_profile_link: true
 github_skip_forks: true
 
 # Twitter
-twitter_user:
-twitter_tweet_button: true
+#twitter_user:
+#twitter_tweet_button: true
 
 # Google +1
 google_plus_one: false

@@ -1,0 +1,28 @@
+---
+layout: post
+title: "我的第一篇博客"
+date: 2013-02-26 18:22
+comments: true
+categories: 
+---
+
+##我的第一篇博客
+
+        原来用的博客有CSDN，博客园,eoe等，今天终于把github个人博客用octopress搭建好了，原来用git本来就不怎么熟练，今天也花了不少功夫，原来是在windows8下操作的，但编码问题一直没解决，今天用linux解决了这个问题。
+
+#有问题可以联系
+如果您在安装中有任何问题，欢迎联系我，我将尽可能的用我所知道的东西帮助您
+
+* 邮件wedcel@163.com)
+* QQ: 878676898
+* 新浪微薄: [@心心相念](http://weibo.com/wedcel)
+
+
+##关于作者
+
+```javascript
+  var wedcel = {
+    name  : "王威威",
+    site : "http://wedcel.com"
+  }
+```

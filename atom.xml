@@ -4,7 +4,7 @@
   <title><![CDATA[王威威的博客]]></title>
   <link href="http://xinxinxiangxi.github.com/atom.xml" rel="self"/>
   <link href="http://xinxinxiangxi.github.com/"/>
-  <updated>2013-03-27T14:12:39+08:00</updated>
+  <updated>2013-03-27T14:15:24+08:00</updated>
   <id>http://xinxinxiangxi.github.com/</id>
   <author>
     <name><![CDATA[王威威]]></name>
@@ -18,12 +18,12 @@
     <link href="http://xinxinxiangxi.github.com/blog/2013/02/26/myblog/"/>
     <updated>2013-02-26T18:22:00+08:00</updated>
     <id>http://xinxinxiangxi.github.com/blog/2013/02/26/myblog</id>
-    <content type="html"><![CDATA[<h2>我的第一篇博客</h2>
+    <content type="html"><![CDATA[<h3>我的第一篇博客</h3>
 
 <pre><code>    原来用的博客有CSDN，博客园,eoe等，今天终于把github个人博客用octopress搭建好了，原来用git本来就不怎么熟练，今天也花了不少功夫，原来是在windows8下操作的，但编码问题一直没解决，今天用linux解决了这个问题。
 </code></pre>
 
-<h1>有问题可以联系</h1>
+<h3>有问题可以联系</h3>
 
 <p>如果您在安装中有任何问题，欢迎联系我，我将尽可能的用我所知道的东西帮助您</p>
 
@@ -34,7 +34,7 @@
 </ul>
 
 
-<h2>关于作者</h2>
+<h3>关于作者</h3>
 
 <figure class='code'><figcaption><span></span></figcaption><div class="highlight"><table><tr><td class="gutter"><pre class="line-numbers"><span class='line-number'>1</span>
 <span class='line-number'>2</span>
